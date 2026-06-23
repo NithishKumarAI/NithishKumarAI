@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nithish Kumar 👋
 
-<!--
-**NithishKumarAI/NithishKumarAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on building production-grade AI systems using LLMs, FastAPI, PostgreSQL, Vector Databases, and Cloud Infrastructure.
 
-Here are some ideas to get you started:
+🎓 B.Tech Artificial Intelligence & Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 IEEE ICISS 2026 Author
+
+🚀 Building AI products, not just AI models
+
+📍 Tamil Nadu, India
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/nithish-kumar-ai
+- Portfolio: [PORTFOLIO_LINK](https://nithishkumar-ai-portfolio.vercel.app/)
+- Email: nithishswim7@gmail.com
+
+## Current Focus
+
+- Retrieval-Augmented Generation (RAG)
+- Learning Intelligence Systems
+- FastAPI Backend Engineering
+- Vector Databases & Semantic Search
+- AI Infrastructure & Cloud Deployment
+- Production LLM Applications
