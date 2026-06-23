@@ -1,81 +1,48 @@
-<h1 align="center">Hi 👋, I'm Nithish Kumar</h1>
+# Hi 👋, I'm Nithish Kumar
 
-<p align="center">
-AI Engineer focused on LLM Applications, Retrieval Systems, Vector Databases, and Production AI Infrastructure.
-</p>
+### AI Engineer | LLM Applications | RAG Systems | AI Infrastructure
 
----
+🎓 B.Tech Artificial Intelligence & Data Science
 
-## 🚀 About Me
+📄 IEEE ICISS 2026 Author
 
-- 🎓 B.Tech Artificial Intelligence & Data Science
-- 📄 IEEE ICISS 2026 Author
-- 🧠 Building AI systems that combine memory, retrieval, and reasoning
-- ☁️ Interested in production AI engineering, backend systems, and cloud deployment
-- 📍 Tamil Nadu, India
+🚀 Building production-grade AI systems with FastAPI, PostgreSQL, Vector Databases, and LLMs
 
 ---
 
-## 🔭 Current Focus
+### Current Focus
 
 - Retrieval-Augmented Generation (RAG)
 - Learning Intelligence Systems
-- FastAPI Backend Engineering
+- Agentic AI
 - Semantic Search & Vector Databases
-- Production AI Infrastructure
-- Agentic AI Systems
+- AI Infrastructure
 
 ---
 
-## ⭐ Featured Project
+### Featured Project
 
-### Cognitive Memory Engine
+🧠 Cognitive Memory Engine
 
-A full-stack AI Learning Intelligence Platform that transforms study activity into structured memories, semantic retrieval, analytics, and personalized recommendations.
-
-**Tech Stack**
+Full-stack AI Learning Intelligence Platform built with:
 
 FastAPI • PostgreSQL • pgvector • Gemini 2.5 Flash • Next.js • Docker • Google Cloud Run
 
 🔗 Repository:
-https://github.com/NithishKumarAI/cognitive-memory-engine
+github.com/NithishKumarAI/cognitive-memory-engine
 
 🌐 Live Demo:
-https://cognitive-memory-frontend-244986175934.asia-south1.run.app
+cognitive-memory-frontend-244986175934.asia-south1.run.app
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**
-
-Python • SQL • TypeScript
-
-**AI & Machine Learning**
-
-LLMs • RAG • NLP • Embeddings • Semantic Search • Whisper STT • CatBoost • Scikit-Learn
-
-**Backend**
-
-FastAPI • Flask • REST APIs • SQLAlchemy
-
-**Databases**
-
-PostgreSQL • pgvector • MySQL
-
-**Cloud & DevOps**
-
-Docker • Google Cloud Run • Git • GitHub
-
----
-
-## 🌐 Connect
+### Connect
 
 LinkedIn:
-https://linkedin.com/in/nithish-kumar-ai
+linkedin.com/in/nithish-kumar-ai
 
 Portfolio:
-[YOUR_PORTFOLIO_LINK](https://nithishkumar-ai-portfolio.vercel.app/)
+your-portfolio-link
 
 Email:
 nithishswim7@gmail.com
