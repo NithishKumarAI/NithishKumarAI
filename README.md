@@ -1,31 +1,33 @@
-# Hi, I'm Nithish Kumar 👋
+<h1 align="center">Hi 👋, I'm Nithish Kumar</h1>
 
-AI Engineer focused on building production-grade AI systems using LLMs, FastAPI, PostgreSQL, Vector Databases, and Cloud Infrastructure.
+<p align="center">
+AI Engineer focused on LLM Applications, Retrieval Systems, Vector Databases, and Production AI Infrastructure.
+</p>
 
-🎓 B.Tech Artificial Intelligence & Data Science
+---
 
-📄 IEEE ICISS 2026 Author
+## 🚀 About Me
 
-🚀 Building AI products, not just AI models
+- 🎓 B.Tech Artificial Intelligence & Data Science
+- 📄 IEEE ICISS 2026 Author
+- 🧠 Building AI systems that combine memory, retrieval, and reasoning
+- ☁️ Interested in production AI engineering, backend systems, and cloud deployment
+- 📍 Tamil Nadu, India
 
-📍 Tamil Nadu, India
+---
 
-## Connect
-
-- LinkedIn: https://linkedin.com/in/nithish-kumar-ai
-- Portfolio: [PORTFOLIO_LINK](https://nithishkumar-ai-portfolio.vercel.app/)
-- Email: nithishswim7@gmail.com
-
-## Current Focus
+## 🔭 Current Focus
 
 - Retrieval-Augmented Generation (RAG)
 - Learning Intelligence Systems
 - FastAPI Backend Engineering
-- Vector Databases & Semantic Search
-- AI Infrastructure & Cloud Deployment
-- Production LLM Applications
+- Semantic Search & Vector Databases
+- Production AI Infrastructure
+- Agentic AI Systems
 
-## Featured Project
+---
+
+## ⭐ Featured Project
 
 ### Cognitive Memory Engine
 
@@ -35,47 +37,45 @@ A full-stack AI Learning Intelligence Platform that transforms study activity in
 
 FastAPI • PostgreSQL • pgvector • Gemini 2.5 Flash • Next.js • Docker • Google Cloud Run
 
-**Features**
-
-- Semantic Memory Retrieval
-- Vector Search using pgvector
-- Retrieval-Augmented Generation (RAG)
-- Learning Analytics
-- Recommendation Engine
-- Production Deployment
-
-GitHub:
+🔗 Repository:
 https://github.com/NithishKumarAI/cognitive-memory-engine
 
-Live Demo:
+🌐 Live Demo:
 https://cognitive-memory-frontend-244986175934.asia-south1.run.app
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 
 **Languages**
+
 Python • SQL • TypeScript
 
 **AI & Machine Learning**
+
 LLMs • RAG • NLP • Embeddings • Semantic Search • Whisper STT • CatBoost • Scikit-Learn
 
 **Backend**
+
 FastAPI • Flask • REST APIs • SQLAlchemy
 
 **Databases**
+
 PostgreSQL • pgvector • MySQL
 
-**Cloud & Deployment**
+**Cloud & DevOps**
+
 Docker • Google Cloud Run • Git • GitHub
 
-**Frontend**
-Next.js • Tailwind CSS • TypeScript
+---
 
-## What I'm Building Towards
+## 🌐 Connect
 
-My long-term goal is to become an AI Engineer working on:
+LinkedIn:
+https://linkedin.com/in/nithish-kumar-ai
 
-- Learning Intelligence Systems
-- Memory Architectures
-- Retrieval Systems
-- Agentic AI
-- Human-AI Collaboration
+Portfolio:
+YOUR_PORTFOLIO_LINK
+
+Email:
+nithishswim7@gmail.com
