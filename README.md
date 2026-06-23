@@ -75,7 +75,7 @@ LinkedIn:
 https://linkedin.com/in/nithish-kumar-ai
 
 Portfolio:
-YOUR_PORTFOLIO_LINK
+[YOUR_PORTFOLIO_LINK](https://nithishkumar-ai-portfolio.vercel.app/)
 
 Email:
 nithishswim7@gmail.com
