@@ -45,30 +45,6 @@ https://cognitive-memory-frontend-244986175934.asia-south1.run.app
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**
-
-Python • SQL • TypeScript
-
-**AI & Machine Learning**
-
-LLMs • RAG • NLP • Embeddings • Semantic Search • Whisper STT • CatBoost • Scikit-Learn
-
-**Backend**
-
-FastAPI • Flask • REST APIs • SQLAlchemy
-
-**Databases**
-
-PostgreSQL • pgvector • MySQL
-
-**Cloud & DevOps**
-
-Docker • Google Cloud Run • Git • GitHub
-
----
-
 ## 🌐 Connect
 
 LinkedIn:
